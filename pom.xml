@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>segun</finalName>
+		<finalName>mama</finalName>
 		
 		<plugins>
 			<plugin>
